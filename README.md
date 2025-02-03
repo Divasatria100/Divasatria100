@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&psig=AOvVaw0196Ia2tdxBdblAa02hhmw&ust=1738690210463000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICSsvKDqIsDFQAAAAAdAAAAABAE" alt="coding-banner">
 # 👋 Hi, I’m @Divasatria100
 
 Welcome to my GitHub profile! I'm a first-semester student at Politeknik Negeri Batam, majoring in Informatics Engineering with a focus on Software Engineering Technology.
