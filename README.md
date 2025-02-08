@@ -12,7 +12,7 @@ My goal is to continuously grow as a developer and contribute to projects that m
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=Divasatria100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divasatria100&layout=donut&theme=radical" />
   </a>
 </div>
 Feel free to explore my repositories and reach out if you'd like to collaborate
