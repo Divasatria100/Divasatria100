@@ -8,8 +8,14 @@ Welcome to my GitHub profile! I'm a first-semester student at Politeknik Negeri 
 - 💞️ I’m looking to collaborate on open-source projects and any innovative software development projects.
 - 📫 How to reach me: divasatria700@gmail.com
 
-My goal is to continuously grow as a developer and contribute to projects that make a difference. Feel free to explore my repositories and reach out if you'd like to collaborate!
-
+My goal is to continuously grow as a developer and contribute to projects that make a difference.  <br>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divasatria100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" />
+  </a>
+</div>
+Feel free to explore my repositories and reach out if you'd like to collaborate
 <!---
 Divasatria100/Divasatria100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
