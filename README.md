@@ -1,14 +1,25 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="coding-banner">
-# 👋 Hi, I’m @Divasatria100
+<div align="center">
 
-Welcome to my GitHub profile! I'm a first-semester student at Politeknik Negeri Batam, majoring in Informatics Engineering with a focus on Software Engineering Technology.
+# 👋 Hi, I’m Diva!  
 
-- 👀 I’m interested in software development and web development.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and PHP as part of my studies in Software Engineering Technology.
-- 💞️ I’m looking to collaborate on open-source projects and any innovative software development projects.
-- 📫 How to reach me: divasatria700@gmail.com
+Welcome to my GitHub profile!  
+I’m a first-year student at **Politeknik Negeri Batam**, majoring in **Informatics Engineering with a focus on Software Engineering Technology**.  
+Here, I share my journey as I explore the world of programming, build small projects, and learn how to turn ideas into something real.  
 
-My goal is to continuously grow as a developer and contribute to projects that make a difference.  <br>
+I’m passionate about **software and web development**, and I love discovering how code can solve real-world problems.  
+Right now, I’m diving deep into **Python, HTML, CSS, JavaScript, and PHP**, sharpening both my logic and creativity through every project I make.  
+
+I enjoy experimenting, learning from mistakes, and pushing myself to write cleaner, smarter, and more meaningful code.  
+I believe every line of code is a step toward growth and that’s what keeps me excited to keep learning every day.  
+
+If you’d like to connect or collaborate, you can find me on **[LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/)**.  
+Let’s connect, share ideas, and maybe even build something impactful together!  
+
+✨ *Keep learning, stay curious, and let your code tell your story.* ✨  
+
+</div>
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=Divasatria100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
