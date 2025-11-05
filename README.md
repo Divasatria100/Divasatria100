@@ -4,15 +4,11 @@
 
 # 👋 Hi, I’m Diva!  
 
-Welcome to my GitHub profile!  
-I’m a first-year student at **Politeknik Negeri Batam**, majoring in **Informatics Engineering** with a focus on **Software Engineering Technology**.  
-Here, I share my journey as I explore the world of programming, build small projects, and learn how to turn ideas into something real.  
+Welcome to my GitHub profile! I’m a first-year student at **Politeknik Negeri Batam**, majoring in **Informatics Engineering** with a focus on **Software Engineering Technology**. Here, I share my journey as I explore the world of programming, build small projects, and learn how to turn ideas into something real.  
 
-I’m passionate about **web and mobile development**, and I love discovering how code can make life easier and solve real-world problems.  
-This semester, I’ve started diving deeper into **Flutter** for mobile development and exploring **Linux** as an operating system to strengthen my technical foundation.  
+I’m passionate about **web and mobile development**, and I love discovering how code can make life easier and solve real-world problems. This semester, I’ve started diving deeper into **Flutter** for mobile development and exploring **Linux** as an operating system to strengthen my technical foundation.  
 
-I enjoy experimenting, learning from mistakes, and pushing myself to write cleaner, smarter, and more meaningful code.  
-Every project I build is a reflection of progress and that’s what keeps me excited to grow every day.  
+I enjoy experimenting, learning from mistakes, and pushing myself to write cleaner, smarter, and more meaningful code. Every project I build is a reflection of progress, and that’s what keeps me excited to grow every day.
 
 If you’d like to connect or collaborate, feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/)**.  
 Let’s share ideas and maybe even build something impactful together!  
