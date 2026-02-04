@@ -39,8 +39,12 @@ Let’s share ideas and maybe even build something impactful together!
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Divasatria100&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Divasatria100&layout=compact&theme=radical)
+![Diva's GitHub Stats](
+https://github-readme-stats-divasatria100.vercel.app/api?username=Divasatria100&show_icons=true&theme=radical
+)
+![Top Languages](
+https://github-readme-stats-divasatria100.vercel.app/api/top-langs/?username=Divasatria100&layout=compact&theme=radical
+)
 
 ---
 
