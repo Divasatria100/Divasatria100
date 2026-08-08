@@ -37,14 +37,6 @@ Let’s share ideas and maybe even build something impactful together!
 
 ---
 
-### 📊 GitHub Stats  
-
-![Diva's GitHub Stats](https://github-readme-stats100.vercel.app/api?username=Divasatria100&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats100.vercel.app/api/top-langs/?username=Divasatria100&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories and reach out if you'd like to collaborate! 💬  
 
 </div>
