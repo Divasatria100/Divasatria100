@@ -4,17 +4,15 @@
 
 # 👋 Hi, I’m Diva!  
 
-Welcome to my GitHub profile!
-I’m a student at Politeknik Negeri Batam, majoring in Informatics Engineering with a focus on Software Engineering Technology. This repository is where I document my learning process, build small projects, and turn ideas into practical implementations.
+I’m a Software Engineering Technology student at Politeknik Negeri Batam. I enjoy building software, experimenting with new technologies, and learning how different parts of a system work together.
 
-I’m interested in web and mobile development, and I enjoy exploring how code can be used to solve real-world problems. I’ve been working with Flutter for mobile development and exploring Linux as a development environment to strengthen my technical foundation.
+My main interest is software engineering, especially web and mobile development, system design, cloud computing, and DevOps. I’ve also been working with IoT and data processing through academic projects, which has given me the opportunity to explore software beyond traditional application development.
 
-I like experimenting, learning from mistakes, and gradually improving how I write code making it cleaner, more efficient, and more meaningful. Every project here represents progress, and that’s what keeps me motivated to keep learning.
+Most of the projects here come from things I’ve built while studying, experimenting, or trying to understand something new. Some are small experiments, while others are larger projects built with a team. I see each repository as part of my learning process and a record of how my skills continue to grow.
 
-If you’d like to connect or collaborate, feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/)**.  
-Let’s share ideas and maybe even build something impactful together!  
+I’m still learning, still experimenting, and still figuring out what kind of engineer I want to become. For now, I’m enjoying the process of building things and learning along the way.
 
-✨ *Keep learning, stay curious, and let your code tell your story.* ✨  
+If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/).
 
 ---
 
