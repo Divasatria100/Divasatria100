@@ -45,11 +45,19 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 
 ---
 
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub 3D Contribution Graph">
+</p>
+
+---
+
 Feel free to explore my repositories and reach out if you'd like to collaborate! 💬  
 
 </div>
 
 <!---
 Divasatria100/Divasatria100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at the changes.
 --->
