@@ -2,11 +2,9 @@
   <img src="./assets/aurora-veil.svg" alt="Diva Satria Profile Banner">
 </p>
 
-<div align="center">
-
-# Hi, I’m Diva!
-
-<div align="justify">
+<table>
+  <tr>
+    <td width="65%" valign="top" align="justify">
 
 I’m a Software Engineering Technology student at Politeknik Negeri Batam. I enjoy building software, experimenting with new technologies, and learning how different parts of a system work together.
 
@@ -17,8 +15,12 @@ Most of the projects here come from things I’ve built while studying, experime
 I’m still learning, still experimenting, and still figuring out what kind of engineer I want to become. For now, I’m enjoying the process of building things and learning along the way.
 
 If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/).
-
-</div>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="250" alt="Let's Code">
+    </td>
+  </tr>
+</table>
 
 ---
 
