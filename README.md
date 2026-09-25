@@ -48,7 +48,7 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 ### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub 3D Contribution Graph">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph">
 </p>
 
 ---
