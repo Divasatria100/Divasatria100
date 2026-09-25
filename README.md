@@ -2,7 +2,11 @@
 
 <div align="center">
 
-# Hi, I’m Diva!  
+# Hi, I’m Diva!
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="220" alt="Molecules dance">
+
+<div align="justify">
 
 I’m a Software Engineering Technology student at Politeknik Negeri Batam. I enjoy building software, experimenting with new technologies, and learning how different parts of a system work together.
 
@@ -13,6 +17,10 @@ Most of the projects here come from things I’ve built while studying, experime
 I’m still learning, still experimenting, and still figuring out what kind of engineer I want to become. For now, I’m enjoying the process of building things and learning along the way.
 
 If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/).
+
+</div>
+
+<br clear="both">
 
 ---
 
@@ -45,7 +53,7 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 
 ---
 
-### 📊 GitHub Contributions
+### GitHub Activity
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph">
@@ -53,11 +61,6 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate! 💬  
+Feel free to explore my repositories and reach out if you'd like to collaborate! 💬
 
 </div>
-
-<!---
-Divasatria100/Divasatria100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at the changes.
---->
