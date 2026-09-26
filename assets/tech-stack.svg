@@ -1,0 +1,38 @@
+<svg width="700" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="100" fill="none"/>
+
+  <!-- Pixel frame -->
+  <path
+    d="
+      M 20 25
+      H 30 V 15 H 670 V 25 H 680 V 75
+      H 670 V 85 H 30 V 75 H 20 Z
+    "
+    fill="#111111"
+  />
+
+  <!-- Inner frame -->
+  <path
+    d="
+      M 35 30
+      H 665 V 70 H 35 Z
+    "
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="4"
+  />
+
+  <!-- Pixel-style title -->
+  <text
+    x="350"
+    y="58"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="monospace"
+    font-size="28"
+    font-weight="900"
+    letter-spacing="4"
+  >
+    TECH STACK
+  </text>
+</svg>
