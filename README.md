@@ -73,7 +73,9 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate! 💬
+<p align="center">
+  <img src="./assets/banner-tech.jpg" alt="Tech Banner">
+</p>
 
 </div>
 
