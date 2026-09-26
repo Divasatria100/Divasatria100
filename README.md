@@ -63,7 +63,9 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 
 ---
 
-### GitHub Activity
+<p align="center">
+  <img src="./assets/github-activity.svg" alt="Github Activity">
+</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph">
