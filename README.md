@@ -6,13 +6,13 @@
   <tr>
     <td width="65%" valign="top" align="justify">
 
-I’m a Software Engineering Technology student at Politeknik Negeri Batam. I enjoy building software, experimenting with new technologies, and learning how different parts of a system work together.
+I’m a Software Engineering Technology student at Politeknik Negeri Batam. I enjoy building software, exploring new technologies, and understanding how different parts of a system work together.
 
-My main interest is software engineering, especially web and mobile development, system design, cloud computing, and DevOps. I’ve also been working with IoT and data processing through academic projects, which has given me the opportunity to explore software beyond traditional application development.
+My main interests are software engineering, web and mobile development, backend systems, system design, cloud computing, and DevOps. I’m particularly interested in how software can be designed beyond individual features, from the way components interact to how a system is developed, tested, and maintained.
 
-Most of the projects here come from things I’ve built while studying, experimenting, or trying to understand something new. Some are small experiments, while others are larger projects built with a team. I see each repository as part of my learning process and a record of how my skills continue to grow.
+Most of the projects here are things I’ve built while studying, experimenting, or working with others. Some are small experiments, while others are larger projects developed as part of a team. I use my repositories to document the things I build, the technologies I explore, and how my approach to software development continues to develop.
 
-I’m still learning, still experimenting, and still figuring out what kind of engineer I want to become. For now, I’m enjoying the process of building things and learning along the way.
+I also enjoy learning through collaboration, discussing ideas with others, and working on projects where I can learn something new along the way.
 
 If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/).
     </td>
