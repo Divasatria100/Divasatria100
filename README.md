@@ -37,18 +37,32 @@ If you’d like to connect or collaborate, feel free to reach out on [LinkedIn](
 </p>
 
 <div align="center">
-  
-## Languages
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,php,python,dart)](https://skillicons.dev)
 
-## Frameworks & Libraries
+</td>
+<td align="center" width="33%">
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=flutter,react,laravel,tailwind,bootstrap)](https://skillicons.dev)
+### Frameworks & Libraries
 
-## Databases
+[![Frameworks](https://skillicons.dev/icons?i=flutter,react,laravel,tailwind,bootstrap)](https://skillicons.dev)
+
+</td>
+<td align="center" width="33%">
+
+### Databases
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
