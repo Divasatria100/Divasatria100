@@ -19,6 +19,12 @@ Projects, experiments, and collaborations are documented here.
 <a href="https://www.linkedin.com/in/diva-satria-18159430a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://devpost.com/divasatria700">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost">
+</a>
+<a href="https://www.youtube.com/@divasatria700/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+</a>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="250" alt="Let's Code">
