@@ -9,6 +9,10 @@
 <h3>Software Engineering Technology student at Politeknik Negeri Batam.</h3>
 
 <p>
+Worked on academic projects, building web applications and backend systems using technologies such as Laravel, React, and PostgreSQL.
+</p>
+
+<p>
 Focused on software engineering, backend development, system design, and software architecture.
 </p>
 
