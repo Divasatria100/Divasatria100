@@ -6,13 +6,19 @@
   <tr>
     <td width="65%" valign="top" align="justify">
 
-Software Engineering Technology student at Politeknik Negeri Batam.
+<h3>Software Engineering Technology student at Politeknik Negeri Batam.</h3>
 
+<p>
 Focused on software engineering, backend development, system design, and software architecture.
+</p>
 
+<p>
 Projects, experiments, and collaborations are documented here.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/diva-satria-18159430a/)
+<a href="https://www.linkedin.com/in/diva-satria-18159430a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="250" alt="Let's Code">
