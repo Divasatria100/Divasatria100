@@ -29,6 +29,7 @@ Projects and experiments I've worked on are documented here.
 <a href="https://www.youtube.com/@divasatria700/videos">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
 </a>
+<img src="https://komarev.com/ghpvc/?username=Divasatria100&style=flat&color=blueviolet" alt="Profile Views">
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="250" alt="Let's Code">
