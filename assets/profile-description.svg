@@ -4,10 +4,10 @@
     .text {
       font-family: Arial, Helvetica, sans-serif;
       font-size: 14px;
-      fill: #8b949e;
+      fill: #ffffff;
     }
     .javascript {
-      fill: #D4A900;
+      fill: #ffd634;
       font-weight: 700;
     }
     .react {
