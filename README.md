@@ -9,15 +9,11 @@
 <h3>Software Engineering Technology student at Politeknik Negeri Batam.</h3>
 
 <p>
-I mostly build web applications using JavaScript, particularly with React, and use Laravel and PostgreSQL for backend development and data management.
-</p>
-
-<p>
-Interested in software engineering, backend development, and system design.
-</p>
-
-<p>
-Projects and experiments I've worked on are documented here.
+  <img
+    src="assets/profile-description.svg"
+    alt="I mostly build web applications using JavaScript, particularly with React, and use Laravel and PostgreSQL for backend development and data management. Interested in software engineering, backend development, and system design. Projects and experiments I've worked on are documented here."
+    width="1000"
+  />
 </p>
 
 <a href="https://www.linkedin.com/in/diva-satria-18159430a/">
