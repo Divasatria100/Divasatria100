@@ -1,9 +1,9 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="300" viewBox="0 0 3000 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="6000" height="700" viewBox="0 0 6000 700">
   <style>
     .text {
       font-family: Arial, Helvetica, sans-serif;
-      font-size: 50px;
+      font-size: 150px;
       fill: #ffffff;
     }
     .javascript {
@@ -24,11 +24,8 @@
     }
   </style>
 
-  <text class="text" x="0" y="55">I mostly build web applications using<tspan class="javascript"> JavaScript</tspan><tspan>, particularly with </tspan><tspan class="react">React</tspan><tspan>, and use </tspan><tspan class="laravel">Laravel</tspan><tspan> and </tspan><tspan class="postgresql">PostgreSQL</tspan></text>
-
-  <text class="text" x="0" y="115">for backend development and data management.</text>
-
-  <text class="text" x="0" y="190">Interested in software engineering, backend development, and system design.</text>
-
-  <text class="text" x="0" y="265">Projects and experiments I've worked on are documented here.</text>
+  <text class="text" x="0" y="150">I mostly build web applications using</text>
+  <text class="text" x="0" y="320"><tspan class="javascript">JavaScript</tspan><tspan>, particularly with </tspan><tspan class="react">React</tspan><tspan>, and use </tspan><tspan class="laravel">Laravel</tspan><tspan> and </tspan><tspan class="postgresql">PostgreSQL</tspan></text>
+  <text class="text" x="0" y="490">for backend development and data management.</text>
+  <text class="text" x="0" y="660">Interested in software engineering, backend development, and system design.</text>
 </svg>
